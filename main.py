@@ -7,3 +7,6 @@ def my_func():
         print("yes, this 2")
     else:
         print("oops, you debil")
+
+
+print("эта функция не нужна, можешь удалить её")
